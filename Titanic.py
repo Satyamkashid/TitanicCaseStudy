@@ -109,7 +109,7 @@ def MarvellousTitanicLogistic():
     print(accuracy_score(ytest,prediction))
 
 def main():
-    print("---- Marvellous Infosystems by Piyush Khairnar-----")
+    print("---- Titanic Case Study by Satyam Kashid-----")
 
     print("Suervised Machine Learning")
     
